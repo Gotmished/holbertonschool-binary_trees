@@ -1,7 +1,7 @@
 # holbertonschool-binary_trees
 
 ### Project general information
-This project contains functions to help build; delete; calculate depth, hegith, size;
+This project contains functions to help build; delete; calculate depth, height, size;
 and traverse the binary tree
 
 ### Description of files:
