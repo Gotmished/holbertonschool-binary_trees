@@ -28,6 +28,6 @@ and traverse the binary tree
 |17-binary_tree_sibling.c|function that finds the sibling of a node|
 |18-binary_tree_uncle.c|function that finds the uncle of a node|
 
-### Authors:
-*Gem Phan
-*Hamish Ross
+### Authors
+Gem Phan
+Hamish Ross
